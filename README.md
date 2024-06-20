@@ -1,2 +1,2 @@
 # Tutorials
-1st commit in tut
+1st commit in tutorial
